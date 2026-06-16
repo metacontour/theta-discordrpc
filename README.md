@@ -64,7 +64,7 @@ If needed, you can replace the Theta Client ID with your own. Otherwise, **do no
 
 ## Use of AI
 
-The plugin's foundation was created using Qwen, Alibaba Cloud's AI, and was subsequently edited and polished by metacontour.
+The plugin's foundation was created using Qwen, Alibaba Cloud's AI, and was subsequently edited and polished by Endcontour.
 
 ---
 
